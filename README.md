@@ -1,0 +1,1 @@
+### Collected statistical data for over 200,000 YouTube videos using Google APIs and R, performed exploratory data analysis to extract meaningful insights. Developed predictive models to identify key factors to consider when uploading videos on YouTube.
